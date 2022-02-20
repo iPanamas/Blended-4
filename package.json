@@ -1,16 +1,16 @@
 {
-  "name": "parcel-project-template",
+  "name": "blended-4",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://goitacademy.github.io/parcel-project-template",
+  "homepage": "http://ipanamas.github.io/Blended-4",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /Blended-4/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/iPanamas/Blended-4"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
